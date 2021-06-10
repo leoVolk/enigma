@@ -87,3 +87,4 @@ Received Import Request.
 Start importing Assets/Scripts/Character.cs using Guid(b67c9ba19486bfa499e88a744fd132d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688dd825e35bf1a2fdbbc8ebf8bf6164') in 0.019558 seconds
   Import took 0.033509 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
